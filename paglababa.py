@@ -158,9 +158,9 @@ logo = """
 
 \033[1;91m-----------------------------------------------                           
 
-                 USE 4G FAST SPED INTERNET
+      USE 4G FAST SPED INTERNET FOR BEST RESULT
 
-\033[1;91m-----------------------------------AKASH--
+\033[1;91m--------------------AKASH---------------------
 
  
 
@@ -196,7 +196,7 @@ def main():
 
  
 
-    print("\033[1;96m[1]\033[1;97mSTART CLONiNG....")
+    print("\033[1;96m[1]\033[1;97mSTART CLONING....")
 
  
 
@@ -306,7 +306,7 @@ def login():
 
  
 
-    print("\033[1;97m[2]\033[1;96mHOW TO GET FRE TOKEN.")
+    print("\033[1;97m[2]\033[1;96mHOW TO GET FREE TOKEN.")
 
  
 
@@ -942,7 +942,7 @@ def menu_select():
 
  
 
-	print("[#] Please Wait A minute.....")
+	print("[#] Please Wait A Minute Boss.....")
 
  
 
@@ -1486,7 +1486,7 @@ def menu_select():
 
  
 
-	print ("[!] KHUUUDAAA HAFFEEZZZ CHLO AB NEKOL Total Cp/Ok : "+str(len(cps)) + "/"+str(len(oks)))
+	print ("[!] ALLAH HAFFEEZ BROTHER. Total Cp/Ok : "+str(len(cps)) + "/"+str(len(oks)))
 
  
 
