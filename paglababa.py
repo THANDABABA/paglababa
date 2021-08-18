@@ -146,7 +146,7 @@ logo = """
 
 \033[1;93m AUTHOR AKASH
 
-\033[1;92m Wtsapp  : +8801401-127470 Whatsapp 
+\033[1;92m Wtsapp  : +8801401-127470
 
 \033[1;91m-----------------------------------------------
 
@@ -244,7 +244,7 @@ def main_select():
 
  
 
-        os.system("xdg-open https://www.facebook.com/THANDA.BABA")
+        os.system("xdg-open https://www.facebook.com/THANDA.BABAA")
 
  
 
@@ -406,7 +406,7 @@ def login_select():
 
  
 
-	    os.system("xdg-open https://www.facebook.com/THANDA.BABA")
+	    os.system("xdg-open https://www.facebook.com/THANDA.BABAA")
 
 	
 
