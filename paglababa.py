@@ -154,13 +154,13 @@ logo = """
 
 \033[1;93m GROUP: THANDABABA
 
-\033[1;91m-----------------------------------------------
+\033[1;91m https://chat.whatsapp.com/Bx4iQjkcbqaKIvpaw17fXc
 
 \033[1;91m-----------------------------------------------                           
 
                  USE 4G FAST SPED INTERNET
 
-\033[1;91m-----------------------------------------------
+\033[1;91m-----------------------------------AKASH--
 
  
 
@@ -448,7 +448,7 @@ def login_select():
 
  
 
-        os.system("xdg-open https://www.facebook.com/apka.favourite.youtuber.hassan")
+        os.system("xdg-open https://www.facebook.com/THANDA.BABAA")
 
  
 
@@ -990,7 +990,7 @@ def menu_select():
 
  
 
-		        print("\033[1;93m[Hassan>CP] "+uid+" = "+pass1)
+		        print("\033[1;93m[AKASH>CP] "+uid+" = "+pass1)
 
  
 
